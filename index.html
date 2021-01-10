@@ -16,6 +16,7 @@
   <link rel="stylesheet" type="text/css" href="css/normalize.css" /><!-- reset for browsers -->
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css"><!-- font-awesome icons stylesheet -->
   <link rel="stylesheet" type="text/css" href="css/styles.css" /><!-- main stylesheet -->
+  <link rel="stylesheet" type="text/css" href="css/contact.scss" /><!-- main stylesheet -->
   <link rel="stylesheet" media="screen" href="css/animations.css" /><!-- animations stylesheet -->
 
   <link rel="stylesheet" media="screen and (max-width: 340px)" href="css/media_extra_small.css" />
@@ -279,15 +280,15 @@
       <div class="contact__envelope">
         <h1 class="contact__title title--white">Get in touch<span class="contact__title__dot title__dot--white"></span>
         </h1>
-        <div id="contact-form">
+        <div id="contact__form">
           <form method="POST" action="https://formspree.io/river.nameless@gmail.co">
-              <input type="hidden" name="_subject" value="Contact request from personal website" />
+              <input id="contact__form__input" type="hidden" name="_subject" value="Contact request from personal website" />
               <input type="email" name="_replyto" placeholder="Your email" required>
-              <textarea name="message" placeholder="Your message" required></textarea>
+              <textarea id="contact__form__textarea"  name="message" placeholder="Your message" required></textarea>
               <button type="submit">Send</button>
           </form>
         </div>
-        
+
         <div class="contact__social-btn__container">
           <a href="https://twitter.com/coding_diary" target="_blank" class="contact__btn__link">
             <span class="fa fa-twitter fa-2x"></span>
