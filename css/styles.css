@@ -743,14 +743,17 @@ a {
   background:#3498db;
   text-align:center
 } 
-#contact h2{margin:0 0 15px 0;
+#contact h2{
+  margin:0 0 15px 0;
   color:#fff;
   font-weight:500
 } 
-#contact-form{max-width:500px;
+#contact-form{
+  max-width:500px;
   margin:0 auto
 } 
-#contact-form input,#contact-form textarea{display:block;
+#contact-form input,#contact-form textarea{
+  display:block;
   width:100%;
   padding:10px;
   border-radius:4px;
