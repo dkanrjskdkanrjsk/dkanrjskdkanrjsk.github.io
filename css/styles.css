@@ -28,7 +28,7 @@ a {
 .fa.fa-linkedin-square {
   display: inline-block;
   margin: 0 5px;
-  color: #d6e3ec;
+  color: #d5dfeb;
   transition: all 0.2s linear;
 }
 .fa:hover {
@@ -145,7 +145,7 @@ a {
   margin-top: 10px;
 }
 .nav-menu__cross-line {
-  stroke: #d6e3ec;
+  stroke: #d5dfeb;
   stroke-width: 3;
   stroke-linecap: round;
 }
@@ -163,7 +163,7 @@ a {
   opacity: 1;
 }
 .nav-menu__link {
-  color: #d6e3ec;
+  color: #d5dfeb;
   transition: all 0.1s linear;
 }
 .nav-menu__link:hover {
@@ -173,7 +173,7 @@ a {
   width: 195px;
   margin: 2em 0 2em 1.7em ;
   height: 1px;
-  background-color: #d6e3ec;
+  background-color: #d5dfeb;
   border: none;
   opacity: 1;
 }
@@ -181,14 +181,14 @@ a {
 .nav-menu__email {
   margin: 2em;
   width: 200px;
-  color: #d6e3ec;
+  color: #d5dfeb;
   font-size: 0.9em;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   opacity: 1;
 }
 .nav-menu__link--email {
-  color: #d6e3ec;
+  color: #d5dfeb;
   transition: all 0.1s linear;
 }
 .nav-menu__link--email:hover {
@@ -215,7 +215,6 @@ a {
 }
 .header__title {
   display: inline-block;
-  background-color: #fff;
   padding: 0 15px;
   color: #4f92d1;
   font-size: 2.9em;
@@ -502,7 +501,7 @@ a {
 .portfolio__item__thumbnail {
   width: 100%;
   height: auto;
-  border-bottom: 1px solid #d6e3ec;
+  border-bottom: 1px solid #d5dfeb;
   -webkit-transform: translateY(0%);
           transform: translateY(0%);
   transition: all 0.6s linear;
@@ -671,7 +670,7 @@ a {
 
 /***  Footer  ***/
 .footer {
-  border-top: 2px solid #d6e3ec;
+  border-top: 2px solid #d5dfeb;
   height: 100px;
   background-color: #013d7a;
   opacity: 0;
@@ -694,7 +693,7 @@ a {
       -ms-flex: 2;
           flex: 2;
   margin: 0;
-  color: #d6e3ec;
+  color: #d5dfeb;
   font-family: "Open Sans", sans-serif;
   font-size: 1.1em;
   font-weight: 400;
@@ -716,7 +715,7 @@ a {
   opacity: 1;
 }
 .footer-menu__link {
-  color: #d6e3ec;
+  color: #d5dfeb;
   -webkit-transform: none;
           transform: none;
   transition: all 0.1s linear;
