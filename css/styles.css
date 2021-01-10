@@ -91,6 +91,13 @@ a {
   right: 0;
   z-index: 5;
 }
+
+.main-nav li {
+  display: inline-block;
+  padding: 1.1em;
+  position: relative;
+  top: 1.5em;
+}
 .nav__logo {
   max-width: 30px;
   height: auto;
