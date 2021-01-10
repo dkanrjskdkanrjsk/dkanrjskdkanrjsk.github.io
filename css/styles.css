@@ -98,6 +98,15 @@ a {
   position: relative;
   top: 1.5em;
 }
+
+
+.main-nav li a {
+  font-family: "Hind", sans-serif;
+  font-size: 1.5em;
+  transition: color 0.2s 0.2s;
+}
+
+
 .nav__logo {
   max-width: 30px;
   height: auto;
