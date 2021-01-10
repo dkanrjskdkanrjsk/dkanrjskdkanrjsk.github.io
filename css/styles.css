@@ -40,11 +40,21 @@ a {
 
 /* Titles */
 .about__title,
-.portfolio__title,
-.contact__title {
+.portfolio__title{
   width: 100%;
   margin: 0;
   padding: 2em 0 1em;
+  color: #4f92d1;
+  font-size: 2.5em;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+}
+.contact__title {
+  width: 100%;
+  margin: 0;
+  padding: 0em 0 1em;
   color: #4f92d1;
   font-size: 2.5em;
   font-family: 'Open Sans', sans-serif;
