@@ -422,7 +422,7 @@ a {
           justify-content: center;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  background-color: #7078a9;
+  background-color: #2974ba;
 }
 .portfolio__nav__btn {
   width: 128px;
@@ -486,7 +486,7 @@ a {
   display: block;
   margin: 0.5em;
   width: 450px;
-  background-color: #7078a9;
+  background-color: #2974ba;
   position: relative;
   overflow: hidden;
   float: left;
@@ -521,8 +521,8 @@ a {
   width: 100%;
   height: 100%;
   padding-top: 2.5em;
-  background-color: #ff4d7f;
-  background: linear-gradient(to top, #ff99b6 0%, #ff4d7f 100%);
+  background-color: #123464;
+  background: linear-gradient(to top, #83a9cd 0%, #123464 100%);
   position: absolute;
   left: 0;
   top: 0;
